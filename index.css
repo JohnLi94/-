@@ -1,0 +1,13 @@
+。list{
+
+  /* 上下左右距离 */
+  padding:40px; 
+
+
+}
+
+.list li{
+
+  /* 行高 */
+  line-height:40px;
+}
